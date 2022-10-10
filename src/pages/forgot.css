@@ -1,0 +1,27 @@
+.test{
+
+    /* background-image: url("https://i.ytimg.com/vi/jt8W69wwmy0/maxresdefault.jpg"); */
+    background-color: lightblue;
+
+    width: 150px;
+
+    margin-left: 50px;
+
+    height: 100px;
+
+   font-style: oblique;
+
+   font-family:serif;
+
+   font-size: large;
+
+
+
+  }
+  .forgot{
+    /* background-image: url("https://i.ytimg.com/vi/jt8W69wwmy0/maxresdefault.jpg"); */
+    background-color: white;
+
+  }
+  
+  

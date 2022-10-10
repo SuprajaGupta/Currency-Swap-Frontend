@@ -1,0 +1,132 @@
+/* .signin{
+
+    background-color: aquamarine;
+
+} */
+
+.check-credentials-form{
+
+  margin: auto;
+
+  height: 300px;
+
+  width: 130%;
+
+  /* background-color: rgb(12, 12, 12); */
+  /* background-image: url("https://media.istockphoto.com/vectors/light-blue-coloured-checkered-grunge-vector-backgrounds-with-narrow-vector-id1283467210?k=20&m=1283467210&s=612x612&w=0&h=VT74xNvf7IvGOH0sV4uyySFoeP8vFxbTxY6qzbne0kY="); */
+
+  /* background-image: url("https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg"); */
+  
+
+}
+
+#input[type=text] {
+  
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  padding-right: 40px;
+
+  padding-top: 20px;
+
+  padding-left: 20px;
+
+  width: 70%;
+
+  padding: 14px 20px;
+
+  margin: 8px 0;
+
+  display: inline-block;
+
+  border: 1px solid #ccc;
+
+  box-sizing: border-box;
+
+}
+
+#email{
+
+  width: 80%;
+
+  margin-top: 40px;
+
+  margin-left: 80px;
+  font-family: myFirstFont;
+  
+  font-weight: bold;
+
+ 
+
+}
+
+#password{
+
+  width: 80%;
+
+ 
+
+  margin-left: 80px;
+  font-family: myFirstFont;
+  
+  font-weight: bold;
+
+ 
+
+}
+
+.btnsignin{
+
+  /* background-color: rgb(12, 12, 12); */
+
+  margin-left: 150px;
+
+
+
+}
+
+
+
+
+/* .signin{
+    background-color: aquamarine;
+} */
+/* .check-credentials-form{
+    margin: auto;
+    height: 300px;
+    width: 130%;
+    background-color: rgb(190, 14, 14);
+    
+}
+#input[type=text] {
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-left: 20px;
+    width: 70%;
+    padding: 14px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  #email{
+    width: 80%;
+    margin-top: 40px;
+    margin-left: 80px;
+   
+  }
+  #password{
+    width: 80%;
+    
+    margin-left: 80px;
+   
+  }
+  .btnsignin{
+    background-color: rgb(7, 39, 183);
+    margin-left: 150px;
+
+  } */

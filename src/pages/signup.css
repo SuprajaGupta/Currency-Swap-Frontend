@@ -1,0 +1,180 @@
+/* .signin{
+
+    background-color: aquamarine;
+
+} */
+
+.check-credentials-formsp{
+
+  margin: auto;
+
+  height: 350px;
+
+  width: 150%;
+  /* background-image: url("https://media.istockphoto.com/photos/white-wall-texture-background-gray-paper-card-light-old-with-space-picture-id963093722?b=1&k=20&m=963093722&s=170667a&w=0&h=2g6qxuACLnK4bCkSOGoPH2t4guS4rV1l6_wZObeqC6I="); */
+  /* background-image: url("https://media.istockphoto.com/vectors/light-blue-coloured-checkered-grunge-vector-backgrounds-with-narrow-vector-id1283467210?k=20&m=1283467210&s=612x612&w=0&h=VT74xNvf7IvGOH0sV4uyySFoeP8vFxbTxY6qzbne0kY="); */
+  /* background-color: rgb(12, 12, 12); */
+
+ 
+
+}
+
+/* #input[type=text] {
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  padding-right: 100px;
+
+  padding-top: 30px;
+
+  padding-left: 20px;
+
+  width: 70%;
+
+  padding: 20px 20px;
+
+  margin: 8px 0;
+
+  display: inline-block;
+
+  border: 1px solid rgb(111, 21, 21);
+
+  box-sizing: border-box;
+
+} */
+
+#usernamesp{
+
+  width: 80%;
+  margin-left: 50px;
+  font-family: myFirstFont;
+  font-weight: bold;
+
+}
+
+#lastnamesp{
+
+  width: 80%;
+  margin-left: 50px;
+  font-family: myFirstFont;
+  
+  font-weight: bold;
+
+}
+
+
+#emailsp{
+
+  width: 80%;
+  margin-left: 50px;
+  font-family: myFirstFont;
+  
+  font-weight: bold;
+
+}
+
+#passwordsp{
+
+  width: 80%;
+  margin-left: 50px;
+  font-family: myFirstFont;
+  
+  font-weight: bold;
+}
+
+#confirmpasswordsp{
+
+  width: 80%;
+  margin-left: 50px;
+  font-family: myFirstFont;
+  
+  font-weight: bold;
+
+}
+
+#phonesp{
+
+  width: 80%;
+  margin-left: 50px;
+  font-family: myFirstFont;
+  
+  font-weight: bold;
+
+}
+
+.btnsignup{
+
+  /* color : rgba(185, 168, 21, 0.95); */
+  margin-left: 100px;
+
+    width: 150px;
+
+    /* margin-left: 50px; */
+
+    height: 50px;
+
+}
+
+
+/* .signin{
+    background-color: aquamarine;
+} */
+/* .check-credentials-formsp{
+    margin: auto;
+    height: 350px;
+    width: 150%;
+    background-color: rgb(21, 165, 23);
+    
+} */
+/* #input[type=text] {
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-left: 20px;
+    width: 70%;
+    padding: 20px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(111, 21, 21);
+    box-sizing: border-box;
+  } */
+  /* #firstnamesp{
+    width: 80%;
+    
+    margin-left: 50px;
+  }
+  #lastnamesp{
+    width: 80%;
+    
+    margin-left: 50px;
+  }
+  #emailsp{
+    width: 80%;
+    
+    margin-left: 50px;
+   
+  }
+  #passwordsp{
+    width: 80%;
+    
+    margin-left: 50px;
+   
+  }
+  #confirmpasswordsp{
+    width: 80%;
+    
+    margin-left: 50px;
+  }
+  #phonesp{
+    width: 80%;
+    
+    margin-left: 50px;
+  }
+  .btnsignup{
+    color : rgba(185, 21, 65, 0.95);
+    margin-left: 100px;
+
+  } */

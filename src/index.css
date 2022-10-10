@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body{
+
+  /* background-image: url("https://cdn1.vectorstock.com/i/1000x1000/28/35/different-country-currency-bag-background-vector-7502835.jpg"); */
+  /* https://t4.ftcdn.net/jpg/02/94/27/45/240_F_294274598_wYuhHMRu9Ok31VxWowkBWbgHTsns1Lbo.jpg */
+
+  /* https://static7.depositphotos.com/1000152/697/i/950/depositphotos_6974069-stock-photo-money-background.jpg */
+  background-size: cover;
+  background-image: url("./image_cleanup.jpg");
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

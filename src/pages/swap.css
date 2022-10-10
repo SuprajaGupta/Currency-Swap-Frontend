@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+  
+.Currency {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 120px;
+  /* background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%); */
+  /* background-image: linear-gradient(120deg, #add8e6 0%, #add8e6 100%); */
+  background-color: lightskyblue;
+}
+.SwapHeading{
+  /* font-family: 'Pacifico', cursive; */
+  font-family: 'lucida grande';
+  font-size: 35px;
+}
+.SwapContainer{
+  height: 300px;
+  width: 800px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.input1{
+  padding-left: 5px;
+  font-size: 20px;
+  height: 36px;
+}
+.SwapMiddle,.SwapRight{
+  width: 120px;
+}
+.SwapSwitch{
+  padding: 5px;
+  margin-top: 25px;
+  background-color: lightcyan;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.SwapResult{
+  box-sizing: border-box;
+  width: 800px;
+  padding-left: 30px;
+}
+.button1{
+  width: 100px;
+  height: 30px;
+  font-weight: bold;
+  font-size: 20px;
+  border: 2px solid rgb(116, 3, 19);
+  background-color: lightcyan;
+  cursor: pointer;
+}
+.p1,.tag3, .button1, .SwapSwitch{
+  color: darkblue;
+}
+.p1{
+  font-size: 30px;
+}
